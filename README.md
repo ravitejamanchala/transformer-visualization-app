@@ -10,7 +10,6 @@ This is a web application built for visualizing transformer asset data, providin
 
 - **Line Chart Visualization**: Displays the last ten voltage readings of transformers.
 - **Data Table**: Presents transformer asset data in a structured tabular format.
-- **State Management**: Powered by Redux Toolkit to efficiently manage and manipulate state.
 - **Containerized Deployment**: Easily deployable using Docker.
 - **Modern Frontend Stack**: Utilizes React, TypeScript, Tailwind CSS, and Vite for fast and scalable development.
 
@@ -65,9 +64,6 @@ This is a web application built for visualizing transformer asset data, providin
 - `npm run lint`: Lints the codebase using ESLint.
 - `npm run preview`: Previews the production build using Vite.
 
-## State Management
-
-State management is handled by **Redux Toolkit** (`@reduxjs/toolkit`), which ensures efficient state handling across the app. The key state data includes transformer assets and voltage readings.
 
 ## Data Visualization
 
