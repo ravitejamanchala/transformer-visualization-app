@@ -6,7 +6,7 @@ Based on your project structure, here's a possible **README.md** file for your t
 
 This is a web application built for visualizing transformer asset data, providing a detailed view of voltage readings over time in a table and chart format. The project utilizes modern web technologies, including TypeScript, React, Vite, and Tailwind CSS, and offers state management, data visualization, and containerized deployment.
 
-![Project Preview](./public/ScreenRecording.mp4)
+![Project Preview](./public/ScreenRecording.gif)
 ## Features
 
 - **Line Chart Visualization**: Displays the last ten voltage readings of transformers.
